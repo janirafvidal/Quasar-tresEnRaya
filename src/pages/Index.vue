@@ -26,8 +26,9 @@
               padding="2px"
               align="center"
               @click="reset"
+              label="PLAY AGAIN"
             >
-              PLAY AGAIN
+              
             </q-btn>
             <pre>{{ whosPlaying }}</pre>
           </q-card-section>
